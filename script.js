@@ -26,7 +26,7 @@ const fivePlusSeven = () => 5 + 7;
 // which adds the params a and b together. Name the function myFunction.
 const myFunction = (a, b) => a + b;
 
-// D:
+// D: add five
 const addFive = (a) => a + 5;
 
 // E: Write an arrow function named createObject with an implicit return statement 
